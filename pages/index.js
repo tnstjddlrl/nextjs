@@ -6,7 +6,6 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>냥냥이!</title>
-        <link rel="icon">😺</link>
       </Head>
 
       <main className={styles.main}>
